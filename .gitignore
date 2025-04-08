@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Korean Smile Style Dataset.tsv
+model.py
+
 # C extensions
 *.so
 
